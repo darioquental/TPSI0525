@@ -6,7 +6,7 @@ console.log(variavel);
 let typenull=null;
 console.log(typeof(typenull));
 let array =[];
-console.log(typeof(lista));
+console.log(typeof(array));
 let bool = true;
 
 
@@ -42,7 +42,7 @@ console.log(typeof(num));
 
 // NaN
 
-//arrays 
+//arrays
 array[0]='Dario';
 array.push(array[0]);
 array[2]=23;

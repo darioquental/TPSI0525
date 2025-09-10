@@ -45,5 +45,5 @@ console.log(typeof(num));
 //arrays 
 array[0]='Dario';
 array.push(array[0]);
-array[2]='Joao';
+array[2]=23;
 console.log(array);

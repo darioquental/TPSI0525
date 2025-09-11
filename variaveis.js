@@ -1,6 +1,6 @@
 let nome = 'Dario'; // String literal 
 let num = 1233; // Number literal
-let flag = true // Boolean Literal
+let flag = true; // Boolean Literal
 let variavel; //   undefined
 console.log(variavel);
 let typenull=null;

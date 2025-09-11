@@ -9,7 +9,6 @@ let array =[];
 console.log(typeof(array));
 let bool = true;
 
-
 // cast variavel types string to bool
 nome='';
 bool=Boolean(nome);

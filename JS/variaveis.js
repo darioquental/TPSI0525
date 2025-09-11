@@ -40,7 +40,16 @@ num= Number(nome);
 console.log(num);
 console.log(typeof(num));
 
-// NaN
+// cast string para number ( int, float )
+num=parseInt(nome);
+console.log('parse int',num)
+console.log(typeof(num));
+
+num=parseFloat(4,5);
+console.log('parse float',num)
+console.log(typeof(num));
+
+// NaN = isnan      // not a number
 
 //arrays
 array[0]='Dario';
